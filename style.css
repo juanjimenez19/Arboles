@@ -7,3 +7,21 @@ body{
     background-color: darkcyan;
     
 }
+a:hover{
+       color: aquamarine;
+       font-size :azure;
+       font-style: italic
+}
+a{
+    display:block;
+}
+img:hover{
+    width: 310px;
+}
+#misupertitulo{
+    font-size: 45px;
+}
+.imagenesIntro{
+    width:270px;
+    display:block;
+}
