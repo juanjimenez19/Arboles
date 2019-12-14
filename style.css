@@ -7,3 +7,71 @@ body{
     background-color: darkcyan;
     
 }
+.cuadro1{
+    width: 130px;
+    height:130px;
+    border: black solid 3px;
+    padding: 40px;
+    background-color: rgb(75, 42, 165);
+
+    margin: 20px;
+
+    font-family: fantasy;
+    font-size: 20px;
+    float: left;
+    position: static;
+    top: 40px;
+    right: 40px;
+}
+
+.cuadro2{
+    width: 130px;
+    height: 130px;
+    border: black solid 3px;
+    padding: 40px;
+    background-color: rgb(120, 42, 165);
+
+    margin: 20px;
+   
+    
+    font-family: fantasy;
+    font-size: 20px;
+    float: left;
+    position: relative;
+     right: 40px;
+    
+}
+.cuadro4{
+    width: 130px;
+    height: 130px;
+    border: black solid 3px;
+    padding: 40px;
+    background-color:rgb(165, 42, 48);
+    
+    margin: 20px;
+
+    font-family: fantasy;
+    font-size: 20px;
+    position: absolute;
+    float: left;
+    right: 40px;
+
+    
+    
+}
+
+.flotante{
+    width: 130px;
+    height: 130px;
+    border: black solid 3px;
+    padding: 40px;
+    background-color: rgb(220, 20, 20);
+
+    margin: 20px;
+    
+    right: 40px;
+    font-family: fantasy;
+    font-size: 20px;
+    top: 40px;
+    float: left;
+}
